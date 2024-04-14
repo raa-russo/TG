@@ -14,7 +14,12 @@ Neste projeto, foi implementado as seguintes funcionalidades de acordo com as re
 - [x] handlebars,
 - [x] mysqlite
 
-## ⚙️ Como Executar
+## 📖 Banco de Dados
+
+- sqlite
+- sequelize
+
+## 📖 Como Executar
 
 Para executar a aplicação localmente, siga os passos abaixo:
 
@@ -34,7 +39,7 @@ ou
 3. Web
 
 ```bash
-  front end esta no [localhost porta 3000](http://localhost:3000/)
+  front end esta no localhost porta 3000](http://localhost:3000/)
 ```
 
 ## Licença

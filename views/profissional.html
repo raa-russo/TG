@@ -76,10 +76,7 @@
         <p>Nome</p>
         <label for="nome"></label>
         <input type="text" name="nome" id="tamanho">
-
-        <p>CNPJ</p>
-        <label for="cnpj"></label>
-        <input type="text" name="cnpj" id="tamanho">
+        
 
         <p>Endereço</p>
         <label for="endereco"></label>
@@ -91,17 +88,8 @@
 
         <p>Senha</p>
         <label for="senha"></label>
-        <input type="password" name="senha" id="tamanho">
-
-        <p>Tipo de serviço</p>
-        <select name="servico" id="servico" class="select-fundo" style="background-color: #ffffff !important; color: #000000 !important;">
-            <option disabled selected> -- selecione -- </option>
-            @foreach($servicos as $servico)
-                <option value="{{ $servico->id }}">
-                    {{ $servico->nome }}
-                </option>
-            @endforeach
-        </select>
+        <input type="password" name="senha" id="tamanho">      
+        
 
 
         <button type="submit" id="botao">Enviar</button>
