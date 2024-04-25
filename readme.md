@@ -48,27 +48,42 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) p
 - Tela principal do site.
 ![image](https://github.com/raa-russo/TG/assets/101585738/41841986-5f1b-4c69-889c-1001dc3e7abf)
 
+-Para os clientes
+![image](https://github.com/raa-russo/TG/assets/101585738/0cc470fe-583a-4a66-b299-324ebdd92fed)
 
-- Sobre o proejto
-![image](https://github.com/raa-russo/tcc/assets/101585738/e71c9849-9324-480c-893d-269f0cfc9fbe)
 
-- Procurando um servico
-![image](https://github.com/raa-russo/tcc/assets/101585738/0bf2bfc2-b9f1-4de0-b2d9-4288401b0e78)
+- Tela de escolha de um serviços!
+![image](https://github.com/raa-russo/TG/assets/101585738/d8eaf360-8767-413f-a871-133b7e634fed)
 
-- Ver os tipos de servicos e valores
- ![image](https://github.com/raa-russo/tcc/assets/101585738/2f652230-aca4-42eb-addf-e99f8cf8cdcf)
+
+- Escolhendo um servico
+![image](https://github.com/raa-russo/TG/assets/101585738/3f35a856-23c3-4c92-a863-7b3c078ca7b6)
+
+
+- Ver os servicos e valores
+ ![image](https://github.com/raa-russo/TG/assets/101585738/23398b5a-1bb4-4dc3-94fc-3f44da9e66f1)
+
  
-_ Buscando um servico
-![image](https://github.com/raa-russo/tcc/assets/101585738/42f49769-7933-46e8-bfa9-1c6ed3301b67)
+_ Agendando um serviço
+![image](https://github.com/raa-russo/TG/assets/101585738/208e770a-d322-40a0-a4c6-7e0d16d14352)
 
-_ Ao rolar o scroll do mouse para baixo vemos os servicos cadastrados e podemos clicar no msm para fazer um agendamento
-![image](https://github.com/raa-russo/tcc/assets/101585738/7597d683-6fe2-441d-911c-867ce23450b7)
+- Escolhendo um horario
+![image](https://github.com/raa-russo/TG/assets/101585738/498f8cf2-8ec0-432f-8873-744878996756)
 
-- Ao clicar em ver servicos, seremos derecionados a outra tela para podermos fazer o agendamento.
-![image](https://github.com/raa-russo/tcc/assets/101585738/9df68452-d8c5-4915-83fb-791719caecb9)
+  - Enviando um email e finalizando o agendamento
+![image](https://github.com/raa-russo/TG/assets/101585738/854643f9-9591-4441-b04c-c728366f50c0)
 
-- Ao clicarmos em divulgar servicos, poderemos adicionar um novo servico que sera imediatamente mostrada na tela de servicos cadastradas.
-![image](https://github.com/raa-russo/tcc/assets/101585738/06486a1e-c0ae-447b-a4ac-c86ce53ea4f4)
+
+_ Para o Profissional
+![image](https://github.com/raa-russo/TG/assets/101585738/04435716-fe1c-4d90-9de9-854a92d9aa15)
+
+- Divulgando um serviço
+![image](https://github.com/raa-russo/TG/assets/101585738/d5dc348c-ad8c-4663-9b40-7f33edca596c)
+
+
+- Serviços divulgados
+![image](https://github.com/raa-russo/TG/assets/101585738/f6e0e570-6a1c-4697-87a6-dab573feea34)
+
 
 
 
