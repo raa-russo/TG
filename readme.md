@@ -45,8 +45,9 @@ ou
 ## Licença
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
 
-- Imagem principal do site.
-![image](https://github.com/raa-russo/tcc/assets/101585738/c78425f9-6703-4c82-adde-a5a77ffa1e0f)
+- Tela principal do site.
+![image](https://github.com/raa-russo/TG/assets/101585738/41841986-5f1b-4c69-889c-1001dc3e7abf)
+
 
 - Sobre o proejto
 ![image](https://github.com/raa-russo/tcc/assets/101585738/e71c9849-9324-480c-893d-269f0cfc9fbe)
