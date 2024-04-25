@@ -1,12 +1,12 @@
-# Projeto TCC - um site para divulgacao e busca de servicos
+# Projeto TCC - um site para divulgacao e busca de servicos para beleza masculina e feminina.
 
 Este repositório contém um trabalho de tg2
 
 ## 📖 Sobre este projeto
 
-Foi desenvolvido um mini site onde se pode divulgar servicos de beleza para facilitar a procura...
+Foi desenvolvido um mini site onde clientes possam buscar por servicos e profissionais possam divulgar servicos de beleza.
 
-Neste projeto, foi implementado as seguintes funcionalidades de acordo com as regras de negócio definidas:
+Neste projeto, foram usadas as seguintes funcionalidades.
 
 - [x] desenvolvida em node, 
 - [x] express, 
