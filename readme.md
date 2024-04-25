@@ -2,7 +2,7 @@
 
 Este repositório contém um trabalho de tg2
 
-## 📖 Sobre o projeto
+## 📖 Sobre este projeto
 
 Foi desenvolvido um mini site onde se pode divulgar servicos de beleza para facilitar a procura...
 
